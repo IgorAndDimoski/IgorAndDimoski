@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">A passionate Python developer from Netherlands</h3>
 
-- 🔭 I’m currently working on "FlightSearchEngine" my own project
 
 - 🌱 I’m currently learning **UiPath automation software https://www.uipath.com/**
 
